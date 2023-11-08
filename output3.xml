@@ -1,0 +1,394 @@
+<Songs>
+  <Song FilePath="Misabuse\Armada - 2015 - A State of Trance Classics Vol. 10\[1-08] Markus Schulz vs. Chakra &#8211; I Am.opus">
+    <Match MatchType="Drop" Similarity="62%">
+      <Poi Name="End Break 3" Pos="315.975692" />
+      <Song FilePath="Misabuse\Armada - 2015 - A State of Trance Classics Vol. 10\[1-06] Above &amp; Beyond &#8211; Can't Sleep.opus">
+        <Poi Name="End Break 3" Pos="475.386485" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="Misabuse\Armada - 2015 - A State of Trance Classics Vol. 10\[4-03] DJ Shah feat. Adrina Thorpe &#8211; Back To You (Aly &amp; Fila Remix).opus">
+    <Match MatchType="Drop" Similarity="62%">
+      <Poi Name="End Break 2" Pos="164.831202" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0711. Jones &amp; Stephenson - The First Rebirth (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="169.357642" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iaman00b\Digitally Imported Premium Releases 2012 - Vocal Trance\DJ Shog feat. Anita Kelsey - Don't Push Me Down (Original Mix).mp3">
+    <Match MatchType="Drop" Similarity="62%">
+      <Poi Name="End Break 3" Pos="289.055782" />
+      <Song FilePath="iaman00b\Digitally Imported Premium Releases 2010 - Vocal Trance\DJ Shog ft. Anita Kelsey - Don't Push Me Down (Original Mix).mp3">
+        <Poi Name="End Break 3" Pos="291.699229" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iaman00b\Digitally Imported Premium Releases 2012 - Vocal Trance\DJ Tatana feat. Jael - Always On My Mind (Ronski Speed Edit).mp3">
+    <Match MatchType="Drop" Similarity="62%">
+      <Poi Name="End Break 1" Pos="154.242177" />
+      <Song FilePath="iaman00b\Digitally Imported Premium Releases 2010 - Vocal Trance\Zenon ft. Eririe - September Rain (Bobina Vox Remix).mp3">
+        <Poi Name="End Break 1" Pos="399.985488" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="Trance Dimension\M\Markus Schulz Vs. Andy Moor - Daydream (Benya Remix).mp3">
+    <Match MatchType="Drop" Similarity="62%">
+      <Poi Name="End Break 1" Pos="239.548662" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0530. John O'Callaghan feat. Jaren - Surreal (Original Mix).mp3">
+        <Poi Name="End Break 2" Pos="271.008073" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="Trance Dimension\D\DJ Dean - Dreamworld (Accurface Remix).mp3">
+    <Match MatchType="Drop" Similarity="62%">
+      <Poi Name="End Break 1" Pos="145.82712" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0825. Signum - Harmonic (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="193.897506" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="Trance Dimension\D\DJ Dean - Dreamworld (Nomansland Remix).mp3">
+    <Match MatchType="Drop" Similarity="62%">
+      <Poi Name="End Break 2" Pos="281.396825" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0825. Signum - Harmonic (Original Mix).mp3">
+        <Poi Name="End Break 2" Pos="303.616871" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="genericscud\Hard Style\01. DJ Isaac - Burn (Extended Mix).mp3">
+    <Match MatchType="Drop" Similarity="62%">
+      <Poi Name="End Break 1" Pos="204.803628" />
+      <Song FilePath="blijei1964\2011 - Top 100 Best Of Albums - Best Top 100 Hardstyle From FearFM 2010\030.Dj Thera - The Test 2.0 (Crypsis Remix).mp3">
+        <Poi Name="End Break 1" Pos="204.601179" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="Misabuse\Armada - 2015 - A State of Trance Classics Vol. 10\[4-01] W&amp;W &#8211; Alpha.opus">
+    <Match MatchType="Drop" Similarity="61%">
+      <Poi Name="End Break 2" Pos="261.436372" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0993. Yves Deruyter - Feel Free (Original Mix).mp3">
+        <Poi Name="End Break 5" Pos="710.886168" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="blijei1964\CD5\03. Sugarhigh.mp3">
+    <Match MatchType="Drop" Similarity="61%">
+      <Poi Name="End Break 1" Pos="130.847347" />
+      <Song FilePath="iaman00b\Digitally Imported Premium Releases 2012 - Vocal Trance\Magic Island - Paradise (Aly and Fila Remix).mp3">
+        <Poi Name="End Break 1" Pos="209.549932" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="Terrum\DJ Terrum's Pack've Hands Up!\06-united beats - por que no (DJ dean remix).mp3">
+    <Match MatchType="Drop" Similarity="61%">
+      <Poi Name="End Break 1" Pos="138.875646" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0655. Sean Tyas - Ivy (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="110.735964" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iaman00b\Digitally Imported Premium Releases 2012 - Vocal Trance\Amurai feat. Melissa Loretta - Unconditional Love.mp3">
+    <Match MatchType="Drop" Similarity="61%">
+      <Poi Name="End Break 2" Pos="420.785488" />
+      <Song FilePath="iaman00b\Digitally Imported Premium Releases 2010 - Vocal Trance\Moony - I Don't Know Why (DJ Chus Jerome Isma Ae Superdub Mix).mp3">
+        <Poi Name="End Break 1" Pos="295.841814" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="blijei1964\BEATPORT TECHNO SOUND PACK #580 (2022)\030. Dj Thera - Tranceportation.mp3">
+    <Match MatchType="Drop" Similarity="61%">
+      <Poi Name="End Break 1" Pos="136.544943" />
+      <Song FilePath="armander8\Hard Styles - Hardstyle\Tartaros &amp; Juized - The Dungeon [DJ Thera Remix].mp3">
+        <Poi Name="End Break 1" Pos="64.059501" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="theman666\VA_-_Q-Dance_Hardstyle_Top_100-WEB-2022\027_dj_isaac_and_d-block_and_s-te-fan_-_slave_to_the_rave_(original_mix).mp3">
+    <Match MatchType="Drop" Similarity="61%">
+      <Poi Name="End Break 2" Pos="116.033016" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0241. Beat Service feat. Emma Lock - Hiding To Nothing (Original Mix).mp3">
+        <Poi Name="End Break 2" Pos="262.049524" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="coyotl7\A State Of Trance Classics Vol. 5 - 2010\2-09. NU NRG - Freefall.mp3">
+    <Match MatchType="Drop" Similarity="61%">
+      <Poi Name="End Break 2" Pos="313.616689" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0485. Nu Nrg - Freefall (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="282.749388" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iaman00b\Digitally Imported Premium Releases 2012 - Eurodance\Minozza Inc - Running From The Rain.mp3">
+    <Match MatchType="Drop" Similarity="60%">
+      <Poi Name="End Break 1" Pos="211.664399" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0123. Stoneface &amp; Terminal - Super Nature (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="243.673832" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iaman00b\Club Charts Megamix Vol.2\1-31  Klaas Meets Hadaway - What Is Love 2k9.mp3">
+    <Match MatchType="Drop" Similarity="60%">
+      <Poi Name="End Break 1" Pos="61.905125" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0527. Cosmic Gate feat. Tiff Lacey - Open Your Heart (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="306.023039" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iaman00b\Digitally Imported Premium Releases 2012 - Vocal Trance\Kareema - Cool Your Engines.mp3">
+    <Match MatchType="Drop" Similarity="60%">
+      <Poi Name="End Break 1" Pos="73.192925" />
+      <Song FilePath="iaman00b\Digitally Imported Premium Releases 2012 - Vocal Trance\Blank and Jones feat. Elles - Mind Of The Wonderful (Martin Roth Remix).mp3">
+        <Poi Name="End Break 3" Pos="318.270839" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="C:\Users\v-arasouli\Downloads\Hands Up . Techno . Trance . Hard Trance . Dance\Hands Up . Techno . Trance . Hard Trance . Dance\[HANDS UP] Anders Nilson - Salsa Tequila (Damn-R Bootleg Mix).mp3">
+    <Match MatchType="Drop" Similarity="60%">
+      <Poi Name="End Break 1" Pos="40.282993" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0159. Armin van Buuren feat. Racoon - Love You More (Original Mix).mp3">
+        <Poi Name="End Break 2" Pos="236.645442" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="blijei1964\Hardstyle Top 100 Edition (2022)\46. Simox - Let The Music (DJ Thera Remix Edit).mp3">
+    <Match MatchType="Drop" Similarity="60%">
+      <Poi Name="End Break 1" Pos="176.163265" />
+      <Song FilePath="iaman00b\Digitally Imported Premium Releases 2010 - Vocal Trance\D-Light &amp; Bissen ft. Victoria Gross - Like I Do (John O'Callaghan Remiix).mp3">
+        <Poi Name="End Break 2" Pos="404.136054" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iaman00b\Digitally Imported Premium Releases 2012 - Vocal Trance\4 Strings - Crash And Burn.mp3">
+    <Match MatchType="Drop" Similarity="60%">
+      <Poi Name="End Break 1" Pos="184.15093" />
+      <Song FilePath="iaman00b\Digitally Imported Premium Releases 2012 - Vocal Trance\Bobina feat. Elles de Graaf - Lighthouse (Sean Tyas Vocal Mix).mp3">
+        <Poi Name="End Break 2" Pos="304.207528" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="=Miki+=\AWF031-040\S3RL Feat. Kimberley Bowden &#8206;&#8211; Middle Of The Night (Starstruck Remix).mp3">
+    <Match MatchType="Drop" Similarity="60%">
+      <Poi Name="End Break 1" Pos="268.826848" />
+      <Song FilePath="cien\#musicislife (Extended Club Mixes)\1-09 Callisto.mp3">
+        <Poi Name="End Break 1" Pos="221.830385" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iaman00b\Digitally Imported Premium Releases 2012 - Vocal Trance\Yves - Infinity (Vocal Club Mix).mp3">
+    <Match MatchType="Drop" Similarity="60%">
+      <Poi Name="End Break 2" Pos="410.782041" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0921. Ciro Visone Vs Sara Pollino - The Winners (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="341.69542" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="joalfer83\1998\Accuface - Let There Be Light DJ Dean Remix.mp3">
+    <Match MatchType="Drop" Similarity="60%">
+      <Poi Name="End Break 1" Pos="138.882902" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0762. Robert Nickson - Circles (Andy Blueman Remix).mp3">
+        <Poi Name="End Break 2" Pos="419.605624" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iwashington\The Fat Of The Land\02. Prodigy - Breathe.mp3">
+    <Match MatchType="Drop" Similarity="59%">
+      <Poi Name="End Break 2" Pos="269.982766" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0752. Signum - The Timelord (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="287.576236" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iaman00b\Clubland 10 (2006)\02-22  Energy 52 - Cafe del Mar (Raul Rincon mix).mp3">
+    <Match MatchType="Drop" Similarity="59%">
+      <Poi Name="End Break 1" Pos="156.213696" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0560. Marco V - False Light (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="234.221859" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iaman00b\Digitally Imported Premium Releases 2012 - Vocal Trance\Bartlett Bros feat. Dkd - Walk By Me.mp3">
+    <Match MatchType="Drop" Similarity="59%">
+      <Poi Name="End Break 2" Pos="374.465306" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0921. Ciro Visone Vs Sara Pollino - The Winners (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="341.69542" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iaman00b\90s Dance Hits, Volume 4\03. Haddaway - What Is Love.mp3">
+    <Match MatchType="Drop" Similarity="59%">
+      <Poi Name="End Break 1" Pos="179.900227" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0351. Gareth Emery feat. Emma Hewitt - I Will Be The Same (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="58.484535" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0534. Jonas Steur - Silent Waves (Original Mix).mp3">
+    <Match MatchType="Drop" Similarity="59%">
+      <Poi Name="End Break 2" Pos="348.485079" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0921. Ciro Visone Vs Sara Pollino - The Winners (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="341.69542" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="GRU\Dj_Thera_-_Remixed_(TCREC013a)-WEB-2020-HS\10_Dj_Thera_-_The_Paranormal_(Ephoric_Remix)_(Pro_Mix).mp3">
+    <Match MatchType="Drop" Similarity="59%">
+      <Poi Name="End Break 1" Pos="102.449342" />
+      <Song FilePath="Trance Dimension\M\Markus Schulz Vs. Andy Moor - Daydream (Benya Remix).mp3">
+        <Poi Name="End Break 1" Pos="239.548662" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="C:\Users\v-arasouli\Downloads\Hands Up . Techno . Trance . Hard Trance . Dance\Hands Up . Techno . Trance . Hard Trance . Dance\Techno Trance\Dancecore Invaderz - Mortal Kombat Theme 2.17 (Original Mix).mp3">
+    <Match MatchType="Drop" Similarity="59%">
+      <Poi Name="End Break 2" Pos="175.030567" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0921. Ciro Visone Vs Sara Pollino - The Winners (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="341.69542" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iaman00b\Digitally Imported Premium Releases 2012 - Vocal Trance\Airwave feat. Jon O Bir - The Promise I Made (Vocal Mix).mp3">
+    <Match MatchType="Drop" Similarity="59%">
+      <Poi Name="End Break 1" Pos="205.081542" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0754. Mike Foyle and Statica - Space Guitar (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="247.667664" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="C:\Users\v-arasouli\Downloads\Hands Up . Techno . Trance . Hard Trance . Dance\Hands Up . Techno . Trance . Hard Trance . Dance\[HANDS UP] Avicii - Waiting For Love (WaveFirez Bootleg Edit).mp3">
+    <Match MatchType="Drop" Similarity="59%">
+      <Poi Name="End Break 1" Pos="79.533424" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0123. Stoneface &amp; Terminal - Super Nature (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="243.673832" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0041. Armin van Buuren - Communication (Original Mix).mp3">
+    <Match MatchType="Drop" Similarity="59%">
+      <Poi Name="End Break 1" Pos="148.624399" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0527. Cosmic Gate feat. Tiff Lacey - Open Your Heart (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="306.023039" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="Kbk911\HOUSE REMIX\Dr. Dre - The Next Episode (Dj Allan OG To House Transition 95-128 Bpm)[Clean].mp3">
+    <Match MatchType="Drop" Similarity="58%">
+      <Poi Name="End Break 1" Pos="88.117551" />
+      <Song FilePath="iaman00b\Digitally Imported Premium Releases 2012 - Eurodance\Liz Kay - Castles In The Sky (Cascada Remix).mp3">
+        <Poi Name="End Break 3" Pos="206.548753" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iaman00b\All the Best (2012)\26. ATB - Feel Alive (airplay mix).mp3">
+    <Match MatchType="Drop" Similarity="58%">
+      <Poi Name="End Break 1" Pos="179.586032" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0650. Nery - Redawn (Andy Blueman Remix).mp3">
+        <Poi Name="End Break 2" Pos="393.700862" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iaman00b\Digitally Imported Premium Releases 2012 - Eurodance\Velvet - Dancing With Tears In My Eyes.mp3">
+    <Match MatchType="Drop" Similarity="58%">
+      <Poi Name="End Break 1" Pos="168.284444" />
+      <Song FilePath="iaman00b\Digitally Imported Premium Releases 2012 - Vocal Trance\Lost Witness feat. Andrea Britton - Wait For You.mp3">
+        <Poi Name="End Break 1" Pos="85.649705" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="C:\Users\v-arasouli\Downloads\Hands Up . Techno . Trance . Hard Trance . Dance\Hands Up . Techno . Trance . Hard Trance . Dance\Techno Trance\DJ East Wolf &amp; Tune Down! - Above The Clouds (Radio Edit).mp3">
+    <Match MatchType="Drop" Similarity="58%">
+      <Poi Name="End Break 1" Pos="155.660045" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0324. Afternova - Serenity (Andy Blueman Remix).mp3">
+        <Poi Name="End Break 1" Pos="337.854694" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="Trance Dimension\T\Tiesto feat Tegan &amp; Sara - Feel It In My Bones (Extended Mix).mp3">
+    <Match MatchType="Drop" Similarity="58%">
+      <Poi Name="End Break 2" Pos="251.336417" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0762. Robert Nickson - Circles (Andy Blueman Remix).mp3">
+        <Poi Name="End Break 1" Pos="308.273923" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="blijei1964\Q-Dance Presents Hardstyle Top 40 April 2022\29. DJ Thera Feat Nova Jae - Breakaway (Pro Mix).mp3">
+    <Match MatchType="Drop" Similarity="58%">
+      <Poi Name="End Break 1" Pos="99.480091" />
+      <Song FilePath="kikebastard\V.A. - Trance Legends (CD1)\(15) Rank 1 - Airwave.mp3">
+        <Poi Name="End Break 1" Pos="165.918912" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="=Miki+=\AWF001-010\Influx - Downunder Underground (S3RL Remix).mp3">
+    <Match MatchType="Drop" Similarity="58%">
+      <Poi Name="End Break 1" Pos="137.184218" />
+      <Song FilePath="=Miki+=\AWF001-010\Starstruck &amp; Lumin8 ft. Zuraya Hamilton &#8206;&#8211; Neverending Story (S3RL Remix).mp3">
+        <Poi Name="End Break 2" Pos="233.1639" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="kikebastard\Armin van Buuren - A State Of Trance Best Of (2016)\02.  Super8 &amp; Tab - Into.mp3">
+    <Match MatchType="Drop" Similarity="57%">
+      <Poi Name="End Break 1" Pos="115.098413" />
+      <Song FilePath="Tak-MK\Disc 3\12. Dimitri Vegas &amp; Like Mike-Ready For Action.mp3">
+        <Poi Name="End Break 1" Pos="178.74068" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iaman00b\All the Best (2012)\36. ATB - Here With Me (short edit).mp3">
+    <Match MatchType="Drop" Similarity="57%">
+      <Poi Name="End Break 1" Pos="123.784853" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0304. ATB Feat. Aruna - My Saving Grace (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="181.914558" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iaman00b\Digitally Imported Premium Releases 2012 - Vocal Trance\First State feat. Sarah Howells - Reverie (Extended Mix).mp3">
+    <Match MatchType="Drop" Similarity="57%">
+      <Poi Name="End Break 1" Pos="383.90059" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0674. Ferry Corsten - Right Of Way (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="84.510476" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="ab_760\Soulseek Shared Folder\061 ATB-9pm (Till I Come).mp3">
+    <Match MatchType="Drop" Similarity="57%">
+      <Poi Name="End Break 1" Pos="59.681814" />
+      <Song FilePath="iaman00b\Digitally Imported Premium Releases 2010 - Vocal Trance\Incense - No Way Back (Radio Edit).mp3">
+        <Poi Name="End Break 1" Pos="132.933515" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="iaman00b\Digitally Imported Premium Releases 2012 - Vocal Trance\Danny feat. Therese - If Only You (Long Version).mp3">
+    <Match MatchType="Drop" Similarity="56%">
+      <Poi Name="End Break 1" Pos="231.608889" />
+      <Song FilePath="Misabuse\Armada - 2015 - A State of Trance Classics Vol. 10\[4-03] DJ Shah feat. Adrina Thorpe &#8211; Back To You (Aly &amp; Fila Remix).opus">
+        <Poi Name="End Break 4" Pos="481.779955" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="Trance Dimension\D\DJ Dean - Play It Hard (Club Mix).mp3">
+    <Match MatchType="Drop" Similarity="56%">
+      <Poi Name="End Break 1" Pos="288.052971" />
+      <Song FilePath="Snow~\Top 100 Best Techno Vol.18\DJ Yanny - Take me to the Top (Club Mix).mp3">
+        <Poi Name="End Break 2" Pos="132.805079" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="blijei1964\VA - Q-Dance Presents Hardstyle Top 40 Februari 2022 (2022)\28. Dj Thera - Get High (pro_mix).mp3">
+    <Match MatchType="Drop" Similarity="56%">
+      <Poi Name="End Break 1" Pos="71.419501" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0989. Sonic Inc. - I Feel 4 You (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="199.234467" />
+      </Song>
+    </Match>
+  </Song>
+  <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0849. Allure - Ever Enough (Original Mix).mp3">
+    <Match MatchType="Drop" Similarity="56%">
+      <Poi Name="End Break 1" Pos="155.01932" />
+      <Song FilePath="Barlow\Trance.Top.1000.complete-TT\0773. Niels van Gogh - Pulverturm (Original Mix).mp3">
+        <Poi Name="End Break 1" Pos="106.435918" />
+      </Song>
+    </Match>
+  </Song>
+</Songs>
